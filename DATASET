@@ -1,1 +1,24 @@
+# 1. Dataset recommandé : **“Financial News for Stock Movement Prediction” (Kaggle)**
+
+## 🔗 Lien  
+[https://www.kaggle.com/datasets/ankurzing/sentiment-analysis-for-financial-news](https://www.kaggle.com/datasets/ankurzing/sentiment-analysis-for-financial-news)
+
+---
+
+## 🎯 Pourquoi il est parfait pour ton projet ?
+
+- Contient des **news financières réelles**.  
+- Label **sentiment** déjà présent :
+  - Positive  
+  - Negative  
+  - Neutral  
+- Tu peux le transformer en **classification binaire** :
+  - **1 = marché favorable**  
+  - **0 = marché défavorable**
+- Adapté à un **pipeline NLP complet** :
+  - Prétraitement du texte  
+  - Tokenisation  
+  - Représentation (TF-IDF, Word2Vec, BERT)  
+  - Classification supervisée  
+
 
